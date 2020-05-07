@@ -43,7 +43,7 @@
 // mysql用户名
 #define MYSQL_USR "root"
 // mysql密码
-#define MYSQL_PASSWD "QW7992759"
+#define MYSQL_PASSWD "passwd"
 // 数据库名称
 #define SQL_NAME "test"
 // MYSQL端口号
