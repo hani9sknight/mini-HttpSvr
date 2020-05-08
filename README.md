@@ -45,7 +45,7 @@
 
 使用ＬT连接情况下，ET和LT连接相比差不多，只是ＱPS稍差：
 
-![压力测试结果]{./root/webbench.png}
+![压力测试结果](./root/webbench.png)
 
 
 
